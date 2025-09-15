@@ -24,8 +24,10 @@ After build, the dist/ folder contains the production-ready site.
 ```bash
 npm run preview
 ```
+## 📸 Screenshots
+![App Screenshot](./assets/screenshot.png)
 ## 🛠 Technologies
-
 - ⚛️ React
 - ⚡ Vite
 - 📘 TypeScript
+
